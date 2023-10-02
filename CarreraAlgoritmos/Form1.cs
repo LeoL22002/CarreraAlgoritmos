@@ -17,7 +17,7 @@ namespace CarreraAlgoritmos
     {
         Random rand = new Random();
         
-        int[] arreglo = new int[2000];
+        int[] arreglo = new int[5000];
         //int[] arreglo = new int[100];
         float[] time = new float[5];
 
